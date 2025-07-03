@@ -1,0 +1,21 @@
+img {
+  width: 200px; 
+  height: auto; 
+}
+body {
+  background-image: url("https://wallpapercave.com/wp/wp10055741.jpg");
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+}
+p {
+  color: #ffffff;
+}
+
+
+h1 {
+  color: #ffffff;
+}
+li {
+  color: #ffffff
+}
